@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-bookstore",
+  "version": "1.0.0",
+  "description": "RESTful API (CRUD) with NodeJS and MongoDB",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "Luiso",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
