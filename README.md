@@ -2,7 +2,7 @@
 
 This repository contains a REST API built with Node.js and MongoDB, designed to perform CRUD operations (Create, Read, Update, Delete) on books.
 
-## Uso
+## How to Use It:
 
 1.  Clone the repository using: `git clone https://github.com/solarluiso/api-rest-bookstore`
 2.  Open the project in your code editor and run the following command in your terminal: `npm install`
